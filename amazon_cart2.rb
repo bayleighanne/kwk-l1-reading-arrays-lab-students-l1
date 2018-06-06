@@ -9,7 +9,7 @@
 
 # puts tax_included
 
-big_ticket_prices = [19.99, 75.00]
+big_ticket_prices = []
 
 cart_item_prices.each do |price|
   if price >= 15 
@@ -18,4 +18,5 @@ cart_item_prices.each do |price|
 end 
 
 big_ticket_prices
+=> [19.99, 75.00]
     
