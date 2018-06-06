@@ -1,4 +1,4 @@
-# Listing Classmates
+touh# Listing Classmates
 
 This is a group lab, so make sure you are working in a group of 2-4 students
 
@@ -14,6 +14,8 @@ student_names = [
   "Cardi B"
 ]
 ```
+def first_student_by_index
+student_names = ["Adele"
 
 If we want to access the first value in the array `student_names`, we can just
 type `student_names[0]`, if we want the second, we can type `student_names[1]`.
