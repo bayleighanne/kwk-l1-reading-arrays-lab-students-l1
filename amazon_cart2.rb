@@ -18,5 +18,5 @@ cart_item_prices.each do |price|
 end 
 
 big_ticket_prices
-=> [19.99, 75.00]
+=>[19.99, 75.00]
     
